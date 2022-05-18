@@ -1,0 +1,685 @@
+Date:
+当前日期: 2022/05/18 周三
+Time:
+当前时间: 19:27:51.68
+Sysinfo:
+主机名:           MSI-670
+OS 名称:          Microsoft Windows 11 家庭中文版
+OS 版本:          10.0.22000 暂缺 Build 22000
+OS 制造商:        Microsoft Corporation
+OS 配置:          独立工作站
+OS 构建类型:      Multiprocessor Free
+注册的所有人:     403793446@qq.com
+注册的组织:       暂缺
+产品 ID:          00342-35460-93530-AAOEM
+初始安装日期:     2021/10/6, 14:14:21
+系统启动时间:     2022/5/18, 19:06:38
+系统制造商:       Micro-Star International Co., Ltd.
+系统型号:         GS65 Stealth 9SE
+系统类型:         x64-based PC
+处理器:           安装了 1 个处理器。
+                  [01]: Intel64 Family 6 Model 158 Stepping 10 GenuineIntel ~2601 Mhz
+BIOS 版本:        American Megatrends Inc. E16Q4IMS.118, 2020/5/18
+Windows 目录:     C:\WINDOWS
+系统目录:         C:\WINDOWS\system32
+启动设备:         \Device\HarddiskVolume3
+系统区域设置:     zh-cn;中文(中国)
+输入法区域设置:   zh-cn;中文(中国)
+时区:             (UTC+08:00) 北京，重庆，香港特别行政区，乌鲁木齐
+物理内存总量:     16,226 MB
+可用的物理内存:   10,694 MB
+虚拟内存: 最大值: 18,274 MB
+虚拟内存: 可用:   9,036 MB
+虚拟内存: 使用中: 9,238 MB
+页面文件位置:     C:\pagefile.sys
+域:               WORKGROUP
+登录服务器:       \\MSI-670
+修补程序:         安装了 5 个修补程序。
+                  [01]: KB5013628
+                  [02]: KB5004567
+                  [03]: KB5008295
+                  [04]: KB5013943
+                  [05]: KB5012674
+网卡:             安装了 6 个 NIC。
+                  [01]: VeryKuai TAP Adapter
+                      连接名:      以太网 2
+                      状态:        媒体连接已中断
+                  [02]: Killer E2500 Gigabit Ethernet Controller
+                      连接名:      以太网
+                      状态:        媒体连接已中断
+                  [03]: Killer(R) Wi-Fi 6 AX1650x 160MHz Wireless Network Adapter (200NGW)
+                      连接名:      WLAN
+                      启用 DHCP:   是
+                      DHCP 服务器: 10.208.64.1
+                      IP 地址
+                        [01]: 10.208.79.18
+                        [02]: fe80::381c:78d3:e69d:e654
+                  [04]: Netease UU TAP-Win32 Adapter V9.21
+                      连接名:      以太网 3
+                      状态:        媒体连接已中断
+                  [05]: VirtualBox Host-Only Ethernet Adapter
+                      连接名:      VirtualBox Host-Only Network
+                      启用 DHCP:   否
+                      IP 地址
+                        [01]: 192.168.56.1
+                        [02]: fe80::eca8:87d6:9834:556
+                  [06]: SVN Adapter V1.0
+                      连接名:      以太网 5
+                      状态:        没有硬件
+Hyper-V 要求:     虚拟机监视器模式扩展: 是
+                  固件中已启用虚拟化: 是
+                  二级地址转换: 是
+                  数据执行保护可用: 是
+
+CPU:
+AddressWidth  Architecture  AssetTag                Availability  Caption                                 Characteristics  ConfigManagerErrorCode  ConfigManagerUserConfig  CpuStatus  CreationClassName  CurrentClockSpeed  CurrentVoltage  DataWidth  Description                             DeviceID  ErrorCleared  ErrorDescription  ExtClock  Family  InstallDate  L2CacheSize  L2CacheSpeed  L3CacheSize  L3CacheSpeed  LastErrorCode  Level  LoadPercentage  Manufacturer  MaxClockSpeed  Name                                      NumberOfCores  NumberOfEnabledCore  NumberOfLogicalProcessors  OtherFamilyDescription  PartNumber              PNPDeviceID  PowerManagementCapabilities  PowerManagementSupported  ProcessorId       ProcessorType  Revision  Role  SecondLevelAddressTranslationExtensions  SerialNumber            SocketDesignation  Status  StatusInfo  Stepping  SystemCreationClassName  SystemName  ThreadCount  UniqueId  UpgradeMethod  Version  VirtualizationFirmwareEnabled  VMMonitorModeExtensions  VoltageCaps
+64            9             To Be Filled By O.E.M.  3             Intel64 Family 6 Model 158 Stepping 10  252                                                               1          Win32_Processor    2601               8               64         Intel64 Family 6 Model 158 Stepping 10  CPU0                                      100       198                  1536                       12288        0                            6      0               GenuineIntel  2601           Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz  6              6                    12                                                 To Be Filled By O.E.M.                                            FALSE                     BFEBFBFF000906EA  3                        CPU   TRUE                                     To Be Filled By O.E.M.  U3E1               OK      3                     Win32_ComputerSystem     MSI-670     12                     52                      TRUE                           TRUE
+
+Memory:
+Attributes  BankLabel  Capacity    Caption          ConfiguredClockSpeed  ConfiguredVoltage  CreationClassName     DataWidth  Description      DeviceLocator   FormFactor  HotSwappable  InstallDate  InterleaveDataDepth  InterleavePosition  Manufacturer  MaxVoltage  MemoryType  MinVoltage  Model  Name             OtherIdentifyingInfo  PartNumber        PositionInRow  PoweredOn  Removable  Replaceable  SerialNumber  SKU  SMBIOSMemoryType  Speed  Status  Tag                TotalWidth  TypeDetail  Version
+1           BANK 0     8589934592  Physical Memory  2667                  1200               Win32_PhysicalMemory  64         Physical Memory  ChannelA-DIMM0  12                                     1                    1                   SK Hynix      1200        0           1200               Physical Memory                        HMA81GS6CJR8N-VK                                                    2EA3419F           26                2667           Physical Memory 0  64          128
+1           BANK 2     8589934592  Physical Memory  2667                  1200               Win32_PhysicalMemory  64         Physical Memory  ChannelB-DIMM0  12                                     1                    2                   SK Hynix      1200        0           1200               Physical Memory                        HMA81GS6CJR8N-VK                                                    2EA34250           26                2667           Physical Memory 1  64          128
+
+disk:
+
+Availability  BytesPerSector  Capabilities  CapabilityDescriptions                 Caption                     CompressionMethod  ConfigManagerErrorCode  ConfigManagerUserConfig  CreationClassName  DefaultBlockSize  Description  DeviceID            ErrorCleared  ErrorDescription  ErrorMethodology  FirmwareRevision  Index  InstallDate  InterfaceType  LastErrorCode  Manufacturer            MaxBlockSize  MaxMediaSize  MediaLoaded  MediaType              MinBlockSize  Model                       Name                NeedsCleaning  NumberOfMediaSupported  Partitions  PNPDeviceID                                                   PowerManagementCapabilities  PowerManagementSupported  SCSIBus  SCSILogicalUnit  SCSIPort  SCSITargetId  SectorsPerTrack  SerialNumber                              Signature  Size          Status  StatusInfo  SystemCreationClassName  SystemName  TotalCylinders  TotalHeads  TotalSectors  TotalTracks  TracksPerCylinder
+              512             {3, 4}        {"Random Access", "Supports Writing"}  SAMSUNG MZVLB512HAJQ-00000                     0                       FALSE                    Win32_DiskDrive                      Disk drive   \\.\PHYSICALDRIVE1                                                    EXA7301Q          1                   SCSI                          (Standard disk drives)                              TRUE         Fixed hard disk media                SAMSUNG MZVLB512HAJQ-00000  \\.\PHYSICALDRIVE1                                         4           SCSI\DISK&VEN_NVME&PROD_SAMSUNG_MZVLB512\5&32EE3C2D&0&000000                                                         0        0                1         0             63               0025_3885_91BF_C296.                                 512105932800  OK                  Win32_ComputerSystem     MSI-670     62260           255         1000206900    15876300     255              
+              512             {3, 4}        {"Random Access", "Supports Writing"}  TOSHIBA-RD500                                  0                       FALSE                    Win32_DiskDrive                      Disk drive   \\.\PHYSICALDRIVE0                                                    ECFA10.1          0                   SCSI                          (Standard disk drives)                              TRUE         Fixed hard disk media                TOSHIBA-RD500               \\.\PHYSICALDRIVE0                                         1           SCSI\DISK&VEN_NVME&PROD_TOSHIBA-RD500\5&2D21DC7&0&000000                                                             0        0                0         0             63               0000_0000_0000_0000_8CE3_8E03_0022_A4D5.             500105249280  OK                  Win32_ComputerSystem     MSI-670     60801           255         976768065     15504255     255              
+
+
+uptime:
+
+统计数据开始于 2022/5/18 19:06:50
+
+services infomation:
+Caption                                                                Name                             StartMode
+Application Information                                                Appinfo                          Manual
+Windows Audio Endpoint Builder                                         AudioEndpointBuilder             Auto
+Windows Audio                                                          Audiosrv                         Auto
+Base Filtering Engine                                                  BFE                              Auto
+Background Tasks Infrastructure Service                                BrokerInfrastructure             Auto
+AVCTP 服务                                                             BthAvctpSvc                      Manual
+蓝牙支持服务                                                           bthserv                          Manual
+功能访问管理器服务                                                     camsvc                           Manual
+连接设备平台服务                                                       CDPSvc                           Auto
+Certificate Propagation                                                CertPropSvc                      Manual
+Microsoft Office 即点即用服务                                          ClickToRunSvc                    Manual
+CoreMessaging                                                          CoreMessagingRegistrar           Auto
+Intel(R) Content Protection HECI Service                               cphs                             Manual
+Intel(R) Content Protection HDCP Service                               cplspcon                         Auto
+Cryptographic Services                                                 CryptSvc                         Auto
+DCOM Server Process Launcher                                           DcomLaunch                       Auto
+Device Association Service                                             DeviceAssociationService         Auto
+DHCP Client                                                            Dhcp                             Auto
+Connected User Experiences and Telemetry                               DiagTrack                        Auto
+显示策略服务                                                           DispBrokerDesktopSvc             Auto
+显示增强服务                                                           DisplayEnhancementService        Manual
+DNS Client                                                             Dnscache                         Auto
+Delivery Optimization                                                  DoSvc                            Auto
+Diagnostic Policy Service                                              DPS                              Auto
+Intel(R) Driver & Support Assistant                                    DSAService                       Auto
+Intel(R) Driver & Support Assistant Updater                            DSAUpdateService                 Manual
+数据使用量                                                             DusmSvc                          Auto
+Energy Server Service queencreek                                       ESRV_SVC_QUEENCREEK              Auto
+Windows Event Log                                                      EventLog                         Auto
+COM+ Event System                                                      EventSystem                      Auto
+FlexNet Licensing Service                                              FlexNet Licensing Service        Auto
+Windows Font Cache Service                                             FontCache                        Auto
+Windows Presentation Foundation Font Cache 3.0.0.0                     FontCache3.0.0.0                 Manual
+Human Interface Device Service                                         hidserv                          Manual
+Huorong Internet Security Daemon                                       HipsDaemon                       Auto
+Huorong Windows Security Center                                        HRWSCCtrl                        Manual
+Intel(R) Graphics Command Center Service                               igccservice                      Auto
+Intel(R) HD Graphics Control Panel Service                             igfxCUIService2.0.0.0            Auto
+IKE and AuthIP IPsec Keying Modules                                    IKEEXT                           Auto
+IP Helper                                                              iphlpsvc                         Auto
+Intel(R) Dynamic Application Loader Host Interface Service             jhi_service                      Auto
+Killer Smart AP Selection Service                                      KAPSService                      Manual
+CNG Key Isolation                                                      KeyIso                           Manual
+Killer Analytics Service                                               Killer Analytics Service         Auto
+Killer Network Service                                                 Killer Network Service           Auto
+KillerSmartphoneSleepService                                           KillerSmartphoneSleepService     Auto
+Killer Dynamic Bandwidth Management                                    KNDBWM                           Manual
+Server                                                                 LanmanServer                     Auto
+Workstation                                                            LanmanWorkstation                Auto
+Geolocation Service                                                    lfsvc                            Manual
+LGHUB Updater Service                                                  LGHUBUpdaterService              Auto
+Windows 许可证管理器服务                                               LicenseManager                   Manual
+TCP/IP NetBIOS Helper                                                  lmhosts                          Manual
+Intel(R) Management and Security Application Local Management Service  LMS                              Auto
+Logitech Gaming Registry Service                                       LogiRegistryService              Auto
+LSM                                                                    LSM                              Unknown
+Micro Star SCM                                                         Micro Star SCM                   Auto
+Windows Defender Firewall                                              mpssvc                           Auto
+MSI Foundation Service                                                 MSI Foundation Service           Auto
+MSI True Color Service by Portrait Displays                            MSITrueColorService              Auto
+Nahimic service                                                        NahimicService                   Auto
+Network Connection Broker                                              NcbService                       Manual
+Network Connections                                                    Netman                           Manual
+Network List Service                                                   netprofm                         Manual
+Microsoft Passport Container                                           NgcCtnrSvc                       Manual
+Microsoft Passport                                                     NgcSvc                           Manual
+Network Store Interface Service                                        nsi                              Auto
+NVIDIA LocalSystem Container                                           NvContainerLocalSystem           Auto
+NVIDIA Display Container LS                                            NVDisplay.ContainerLocalSystem   Auto
+Origin Web Helper Service                                              Origin Web Helper Service        Auto
+Program Compatibility Assistant Service                                PcaSvc                           Auto
+Plug and Play                                                          PlugPlay                         Manual
+IPsec Policy Agent                                                     PolicyAgent                      Auto
+Power                                                                  Power                            Auto
+User Profile Service                                                   ProfSvc                          Auto
+QPCore Service                                                         QPCore                           Auto
+Remote Access Auto Connection Manager                                  RasAuto                          Auto
+Remote Access Connection Manager                                       RasMan                           Auto
+无线电管理服务                                                         RmSvc                            Manual
+RPC Endpoint Mapper                                                    RpcEptMapper                     Auto
+Remote Procedure Call (RPC)                                            RpcSs                            Auto
+RstMwService                                                           RstMwService                     Auto
+Realtek Audio Universal Service                                        RtkAudioUniversalService         Auto
+Security Accounts Manager                                              SamSs                            Auto
+Task Scheduler                                                         Schedule                         Auto
+SecoClientService                                                      SecoClientService                Auto
+Windows 安全中心服务                                                   SecurityHealthService            Manual
+Sensor dev service                                                     Sendevsvc                        Auto
+System Event Notification Service                                      SENS                             Auto
+Remote Desktop Configuration                                           SessionEnv                       Manual
+System Guard 运行时监视代理                                            SgrmBroker                       Auto
+Shell Hardware Detection                                               ShellHWDetection                 Auto
+Print Spooler                                                          Spooler                          Auto
+SQL Server VSS Writer                                                  SQLWriter                        Auto
+SSDP Discovery                                                         SSDPSRV                          Manual
+Secure Socket Tunneling Protocol Service                               SstpSvc                          Auto
+State Repository Service                                               StateRepository                  Auto
+Windows Image Acquisition (WIA)                                        StiSvc                           Auto
+Storage Service                                                        StorSvc                          Auto
+SysMain                                                                SysMain                          Auto
+System Events Broker                                                   SystemEventsBroker               Auto
+Intel(R) System Usage Report Service SystemUsageReportSvc_QUEENCREEK   SystemUsageReportSvc_QUEENCREEK  Auto
+Touch Keyboard and Handwriting Panel Service                           TabletInputService               Manual
+Telephony                                                              TapiSrv                          Auto
+Remote Desktop Services                                                TermService                      Manual
+Themes                                                                 Themes                           Auto
+Time Broker                                                            TimeBrokerSvc                    Manual
+Web 帐户管理器                                                         TokenBroker                      Manual
+Distributed Link Tracking Client                                       TrkWks                           Auto
+Remote Desktop Services UserMode Port Redirector                       UmRdpService                     Manual
+User Manager                                                           UserManager                      Auto
+更新 Orchestrator 服务                                                 UsoSvc                           Auto
+Credential Manager                                                     VaultSvc                         Manual
+Virtual Disk                                                           vds                              Manual
+Windows Connection Manager                                             Wcmsvc                           Auto
+Diagnostic Service Host                                                WdiServiceHost                   Manual
+Diagnostic System Host                                                 WdiSystemHost                    Manual
+WinHTTP Web Proxy Auto-Discovery Service                               WinHttpAutoProxySvc              Manual
+Windows Management Instrumentation                                     Winmgmt                          Auto
+WLAN AutoConfig                                                        WlanSvc                          Auto
+Windows 推送通知系统服务                                               WpnService                       Auto
+Security Center                                                        wscsvc                           Auto
+Windows Search                                                         WSearch                          Auto
+Windows Update                                                         wuauserv                         Manual
+Xbox Live 身份验证管理器                                               XblAuthManager                   Manual
+迅雷下载基础服务（用于快速申请磁盘空间及接管浏览器下载请求）           XLServicePlatform                Auto
+XTUOCDriverService                                                     XTU3SERVICE                      Auto
+AarSvc_7f773                                                           AarSvc_7f773                     Manual
+cbdhsvc_7f773                                                          cbdhsvc_7f773                    Auto
+CDPUserSvc_7f773                                                       CDPUserSvc_7f773                 Auto
+NPSMSvc_7f773                                                          NPSMSvc_7f773                    Manual
+OneSyncSvc_7f773                                                       OneSyncSvc_7f773                 Auto
+PimIndexMaintenanceSvc_7f773                                           PimIndexMaintenanceSvc_7f773     Manual
+UdkUserSvc_7f773                                                       UdkUserSvc_7f773                 Manual
+UnistoreSvc_7f773                                                      UnistoreSvc_7f773                Manual
+UserDataSvc_7f773                                                      UserDataSvc_7f773                Manual
+WpnUserService_7f773                                                   WpnUserService_7f773             Auto
+
+IPCONFIG:
+
+Windows IP 配置
+
+   主机名  . . . . . . . . . . . . . : msi-670
+   主 DNS 后缀 . . . . . . . . . . . :
+   节点类型  . . . . . . . . . . . . : 混合
+   IP 路由已启用 . . . . . . . . . . : 否
+   WINS 代理已启用 . . . . . . . . . : 否
+
+以太网适配器 以太网 2:
+
+   媒体状态  . . . . . . . . . . . . : 媒体已断开连接
+   连接特定的 DNS 后缀 . . . . . . . :
+   描述. . . . . . . . . . . . . . . : VeryKuai TAP Adapter
+   物理地址. . . . . . . . . . . . . : 00-FF-18-29-A9-65
+   DHCP 已启用 . . . . . . . . . . . : 否
+   自动配置已启用. . . . . . . . . . : 是
+
+以太网适配器 以太网:
+
+   媒体状态  . . . . . . . . . . . . : 媒体已断开连接
+   连接特定的 DNS 后缀 . . . . . . . : Home
+   描述. . . . . . . . . . . . . . . : Killer E2500 Gigabit Ethernet Controller
+   物理地址. . . . . . . . . . . . . : 00-D8-61-0A-B2-2C
+   DHCP 已启用 . . . . . . . . . . . : 是
+   自动配置已启用. . . . . . . . . . : 是
+
+以太网适配器 VirtualBox Host-Only Network:
+
+   连接特定的 DNS 后缀 . . . . . . . :
+   描述. . . . . . . . . . . . . . . : VirtualBox Host-Only Ethernet Adapter
+   物理地址. . . . . . . . . . . . . : 0A-00-27-00-00-0C
+   DHCP 已启用 . . . . . . . . . . . : 否
+   自动配置已启用. . . . . . . . . . : 是
+   本地链接 IPv6 地址. . . . . . . . : fe80::eca8:87d6:9834:556%12(首选)
+   IPv4 地址 . . . . . . . . . . . . : 192.168.56.1(首选)
+   子网掩码  . . . . . . . . . . . . : 255.255.255.0
+   默认网关. . . . . . . . . . . . . :
+   DHCPv6 IAID . . . . . . . . . . . : 1091174439
+   DHCPv6 客户端 DUID  . . . . . . . : 00-01-00-01-27-87-8F-87-00-D8-61-0A-B2-2C
+   TCPIP 上的 NetBIOS  . . . . . . . : 已启用
+
+无线局域网适配器 本地连接* 1:
+
+   媒体状态  . . . . . . . . . . . . : 媒体已断开连接
+   连接特定的 DNS 后缀 . . . . . . . :
+   描述. . . . . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter
+   物理地址. . . . . . . . . . . . . : A4-B1-C1-82-D8-B4
+   DHCP 已启用 . . . . . . . . . . . : 是
+   自动配置已启用. . . . . . . . . . : 是
+
+无线局域网适配器 本地连接* 2:
+
+   媒体状态  . . . . . . . . . . . . : 媒体已断开连接
+   连接特定的 DNS 后缀 . . . . . . . :
+   描述. . . . . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter #2
+   物理地址. . . . . . . . . . . . . : A6-B1-C1-82-D8-B3
+   DHCP 已启用 . . . . . . . . . . . : 是
+   自动配置已启用. . . . . . . . . . : 是
+
+以太网适配器 以太网 3:
+
+   媒体状态  . . . . . . . . . . . . : 媒体已断开连接
+   连接特定的 DNS 后缀 . . . . . . . :
+   描述. . . . . . . . . . . . . . . : Netease UU TAP-Win32 Adapter V9.21
+   物理地址. . . . . . . . . . . . . : 00-FF-08-00-68-6C
+   DHCP 已启用 . . . . . . . . . . . : 是
+   自动配置已启用. . . . . . . . . . : 是
+
+无线局域网适配器 WLAN:
+
+   连接特定的 DNS 后缀 . . . . . . . :
+   描述. . . . . . . . . . . . . . . : Killer(R) Wi-Fi 6 AX1650x 160MHz Wireless Network Adapter (200NGW)
+   物理地址. . . . . . . . . . . . . : A4-B1-C1-82-D8-B3
+   DHCP 已启用 . . . . . . . . . . . : 是
+   自动配置已启用. . . . . . . . . . : 是
+   本地链接 IPv6 地址. . . . . . . . : fe80::381c:78d3:e69d:e654%10(首选)
+   IPv4 地址 . . . . . . . . . . . . : 10.208.79.18(首选)
+   子网掩码  . . . . . . . . . . . . : 255.255.192.0
+   获得租约的时间  . . . . . . . . . : 2022年5月18日 19:06:56
+   租约过期的时间  . . . . . . . . . : 2022年5月19日 7:07:04
+   默认网关. . . . . . . . . . . . . : 10.208.64.1
+   DHCP 服务器 . . . . . . . . . . . : 10.208.64.1
+   DHCPv6 IAID . . . . . . . . . . . : 77902273
+   DHCPv6 客户端 DUID  . . . . . . . : 00-01-00-01-27-87-8F-87-00-D8-61-0A-B2-2C
+   DNS 服务器  . . . . . . . . . . . : 10.80.128.28
+                                       10.81.254.4
+   TCPIP 上的 NetBIOS  . . . . . . . : 已启用
+
+Route information:
+===========================================================================
+接口列表
+  5...00 ff 18 29 a9 65 ......VeryKuai TAP Adapter
+ 20...00 d8 61 0a b2 2c ......Killer E2500 Gigabit Ethernet Controller
+ 12...0a 00 27 00 00 0c ......VirtualBox Host-Only Ethernet Adapter
+ 16...a4 b1 c1 82 d8 b4 ......Microsoft Wi-Fi Direct Virtual Adapter
+ 15...a6 b1 c1 82 d8 b3 ......Microsoft Wi-Fi Direct Virtual Adapter #2
+  4...00 ff 08 00 68 6c ......Netease UU TAP-Win32 Adapter V9.21
+ 10...a4 b1 c1 82 d8 b3 ......Killer(R) Wi-Fi 6 AX1650x 160MHz Wireless Network Adapter (200NGW)
+  1...........................Software Loopback Interface 1
+===========================================================================
+
+IPv4 路由表
+===========================================================================
+活动路由:
+网络目标        网络掩码          网关       接口   跃点数
+          0.0.0.0          0.0.0.0      10.208.64.1     10.208.79.18     35
+      10.208.64.0    255.255.192.0            在链路上      10.208.79.18    291
+     10.208.79.18  255.255.255.255            在链路上      10.208.79.18    291
+   10.208.127.255  255.255.255.255            在链路上      10.208.79.18    291
+        127.0.0.0        255.0.0.0            在链路上         127.0.0.1    331
+        127.0.0.1  255.255.255.255            在链路上         127.0.0.1    331
+  127.255.255.255  255.255.255.255            在链路上         127.0.0.1    331
+     192.168.56.0    255.255.255.0            在链路上      192.168.56.1    281
+     192.168.56.1  255.255.255.255            在链路上      192.168.56.1    281
+   192.168.56.255  255.255.255.255            在链路上      192.168.56.1    281
+        224.0.0.0        240.0.0.0            在链路上         127.0.0.1    331
+        224.0.0.0        240.0.0.0            在链路上      192.168.56.1    281
+        224.0.0.0        240.0.0.0            在链路上      10.208.79.18    291
+  255.255.255.255  255.255.255.255            在链路上         127.0.0.1    331
+  255.255.255.255  255.255.255.255            在链路上      192.168.56.1    281
+  255.255.255.255  255.255.255.255            在链路上      10.208.79.18    291
+===========================================================================
+永久路由:
+  无
+
+IPv6 路由表
+===========================================================================
+活动路由:
+ 接口跃点数网络目标                网关
+  1    331 ::1/128                  在链路上
+ 12    281 fe80::/64                在链路上
+ 10    291 fe80::/64                在链路上
+ 10    291 fe80::381c:78d3:e69d:e654/128
+                                    在链路上
+ 12    281 fe80::eca8:87d6:9834:556/128
+                                    在链路上
+  1    331 ff00::/8                 在链路上
+ 12    281 ff00::/8                 在链路上
+ 10    291 ff00::/8                 在链路上
+===========================================================================
+永久路由:
+  无
+
+arp information:
+
+接口: 10.208.79.18 --- 0xa
+  Internet 地址         物理地址              类型
+  10.208.64.1           00-00-5e-00-01-01     动态
+  10.208.70.208         00-00-5e-00-01-01     动态
+  10.208.127.255        ff-ff-ff-ff-ff-ff     静态
+  224.0.0.2             01-00-5e-00-00-02     静态
+  224.0.0.22            01-00-5e-00-00-16     静态
+  224.0.0.251           01-00-5e-00-00-fb     静态
+  224.0.0.252           01-00-5e-00-00-fc     静态
+  239.11.20.1           01-00-5e-0b-14-01     静态
+  239.255.255.250       01-00-5e-7f-ff-fa     静态
+  255.255.255.255       ff-ff-ff-ff-ff-ff     静态
+
+接口: 192.168.56.1 --- 0xc
+  Internet 地址         物理地址              类型
+  192.168.56.255        ff-ff-ff-ff-ff-ff     静态
+  224.0.0.2             01-00-5e-00-00-02     静态
+  224.0.0.22            01-00-5e-00-00-16     静态
+  224.0.0.251           01-00-5e-00-00-fb     静态
+  224.0.0.252           01-00-5e-00-00-fc     静态
+  239.11.20.1           01-00-5e-0b-14-01     静态
+  239.255.255.250       01-00-5e-7f-ff-fa     静态
+
+process information:
+Name                Pid Pri Thd  Hnd   Priv        CPU Time    Elapsed Time
+Idle                  0   0  24    0     60     8:58:22.078     0:47:53.988
+System                4   8 267 7227     64     0:03:33.203     0:47:53.988
+Registry            200   8   4    0  19860     0:00:00.859     0:47:56.642
+smss                576  11   2   57   1088     0:00:00.187     0:47:53.983
+csrss               828  13  13  894   2068     0:00:01.781     0:47:46.945
+wininit             964  13   1  149   1368     0:00:00.062     0:47:45.519
+csrss               972  13  16  927   2852     0:00:04.671     0:47:45.514
+services            524   9   7  833   6092     0:00:03.812     0:47:45.458
+lsass               624   9  10 1752   9144     0:00:05.250     0:47:45.413
+svchost            1052   8  17 1643  12000     0:00:02.562     0:47:45.268
+fontdrvhost        1104   8   5   37   2308     0:00:00.046     0:47:45.254
+winlogon           1112  13   7  270   2724     0:00:00.203     0:47:45.251
+fontdrvhost        1196   8   5   37  10260     0:00:04.390     0:47:45.223
+svchost            1236   8  10 1601   8908     0:00:07.375     0:47:45.204
+svchost            1304   8   6  393   3424     0:00:00.437     0:47:45.183
+dwm                1380  13  28 1768 167124     0:02:59.765     0:47:45.133
+svchost            1484   8  14  395   3496     0:00:00.218     0:47:45.098
+svchost            1544   8   3  116   1244     0:00:00.000     0:47:45.090
+svchost            1636   8   4  169   6336     0:00:00.203     0:47:45.077
+svchost            1644   8  10  421   6544     0:00:01.546     0:47:45.076
+svchost            1676   8   5  196   3616     0:00:00.593     0:47:45.071
+svchost            1684   8   4  256   2552     0:00:00.156     0:47:45.071
+svchost            1692   8   2  285   1960     0:00:00.031     0:47:45.071
+svchost            1784   8   2  197   1612     0:00:00.171     0:47:45.066
+svchost            1800   8  12  860   5664     0:00:03.359     0:47:45.064
+IntelCpHDCPSvc     1892   8   4  170   1668     0:00:00.015     0:47:45.054
+svchost            1916   8  10  341   2648     0:00:00.046     0:47:45.052
+svchost            1924   8   6  272   3020     0:00:00.750     0:47:45.052
+svchost            1972   8   8  132   1624     0:00:00.031     0:47:45.047
+svchost            1988   8   4  179   1936     0:00:00.078     0:47:45.046
+IntelCpHeciSvc     2148   8   4  175   1740     0:00:00.031     0:47:45.027
+svchost            2212   8   3  249   2488     0:00:00.031     0:47:45.022
+svchost            2352   8   3  205   2976     0:00:01.500     0:47:45.013
+svchost            2416   8   1  137   1400     0:00:00.031     0:47:45.006
+igfxCUIService     2444   8   3  202   2152     0:00:00.062     0:47:45.003
+svchost            2556   8  12  324   3828     0:00:13.875     0:47:44.993
+svchost            2620   8   4  180   1680     0:00:00.015     0:47:44.988
+HipsDaemon         2708   8  70  563 143820     0:00:28.656     0:47:44.968
+svchost            2768   8   5  180   1936     0:00:00.046     0:47:44.955
+svchost            2840   8   6  251   2468     0:00:01.171     0:47:44.949
+svchost            2876   8   1  115   1308     0:00:00.015     0:47:44.945
+svchost            2988   8   5  201   1988     0:00:00.031     0:47:44.928
+svchost            3032   8   4  202   2016     0:00:02.218     0:47:44.918
+svchost            3156   8   6  313  11980     0:00:04.796     0:47:44.816
+NVDisplay.Container  3204   8  12  360   7888     0:00:00.453     0:47:44.758
+svchost            3256   8   9  464  17540     0:00:14.453     0:47:44.739
+svchost            3288   8   5  235   2572     0:00:02.421     0:47:44.725
+svchost            3296   8   3  292   1324     0:00:00.046     0:47:44.725
+svchost            3348   8   2  194   2100     0:00:00.578     0:47:44.715
+svchost            3356   8   8  169   2008     0:00:01.812     0:47:44.715
+Memory Compression  3396   8  66    0   1100     0:00:21.031     0:47:44.708
+NVDisplay.Container  3568   8  38  729  37748     0:00:05.843     0:47:44.530
+svchost            3592   8  19  719  20708     0:01:00.703     0:47:44.517
+usysdiag           3688   8  26  243   3188     0:00:00.093     0:47:44.405
+WmiPrvSE           3696   8  15  469  32404     0:00:01.156     0:47:44.402
+svchost            3852   8  10  438   3680     0:00:00.953     0:47:44.383
+svchost            4028   8   5  152   1864     0:00:00.093     0:47:44.333
+svchost            4036   8   7  429   2648     0:00:00.187     0:47:44.333
+svchost            3956   8  17  553   6600     0:00:02.390     0:47:44.288
+svchost            4116   8   3  220   2688     0:00:00.281     0:47:44.277
+spoolsv            4196   8  10  443   5680     0:00:00.375     0:47:44.238
+svchost            4244   8  12  441  15808     0:00:02.734     0:47:44.220
+wlanext            4428   8   1  153   1484     0:00:00.062     0:47:44.139
+conhost            4444   8   2   82   5280     0:00:00.015     0:47:44.129
+DSAService         4660   8  24  918  53516     0:00:38.562     0:47:44.112
+svchost            4668   8   6  281   4440     0:00:00.406     0:47:44.111
+svchost            4680   8   5  267   2660     0:00:00.109     0:47:44.110
+svchost            4688   8   1  158   1484     0:00:00.046     0:47:44.110
+svchost            4696   8  23  389  24456     0:00:10.312     0:47:44.109
+OneApp.IGCC.WinService  4704   8   7  692  46624     0:00:01.796     0:47:44.109
+KillerAnalyticsService  4716   8   7  200   4784     0:00:04.843     0:47:44.107
+svchost            4724   8   1  141   1588     0:00:00.015     0:47:44.107
+lghub_updater      4732   8  40  374  15020     0:00:01.468     0:47:44.107
+svchost            4740   8   1  148   1668     0:00:00.015     0:47:44.106
+svchost            4752   8   3  159   1656     0:00:00.250     0:47:44.106
+MsiTrueColorService  4796   8   2   95   1076     0:00:00.015     0:47:44.105
+MSIAPService       4812   8   5  251  13012     0:00:00.046     0:47:44.104
+QQProtect          4820   8  12  429  15284     0:00:00.484     0:47:44.104
+MSIService         4828   8   2  173   1836     0:00:00.109     0:47:44.104
+svchost            4836   8  13  622  21356     0:00:02.250     0:47:44.104
+svchost            4848   8   5  365   2820     0:00:00.171     0:47:44.103
+NahimicService     4856   8  15  468   7992     0:00:01.187     0:47:44.103
+svchost            4888   8   3  136   1284     0:00:00.015     0:47:44.099
+svchost            4900   8   4  178   1960     0:00:00.171     0:47:44.099
+svchost            4912   8  19  220   2792     0:00:00.031     0:47:44.098
+nvcontainer        4956   8  40  722  15020     0:00:02.203     0:47:44.095
+svchost            4968   8   8  430   4796     0:00:00.234     0:47:44.094
+LogiRegistryService  4980   8   3  134   1428     0:00:00.031     0:47:44.093
+RtkAudUService64   4988   8  12  350   5560     0:00:00.421     0:47:44.093
+RstMwService       5004   8   4  130   1348     0:00:00.000     0:47:44.091
+SurSvc             5024   4  12  905 123596     0:01:23.765     0:47:44.088
+XtuService         5048   8  11  516 160048     0:00:02.703     0:47:44.084
+FNPLicensingService  5068   8   6  194   2276     0:00:00.140     0:47:44.080
+SecoClientPromoteService  5084   8   5  122  34792     0:00:01.390     0:47:44.080
+svchost            5092   8  21  387   7724     0:00:00.281     0:47:44.079
+sqlwriter          5116   8   2  138   1976     0:00:00.046     0:47:44.077
+Sendevsvc          4304   8   9  735  28784     0:00:00.687     0:47:44.072
+OriginWebHelperService  5140   4  15  375   6924     0:00:01.187     0:47:44.068
+LMS                5188   8   3  217   2856     0:00:00.031     0:47:44.063
+svchost            5464   8   4  211   2048     0:00:00.015     0:47:44.004
+svchost            5476   8   6  205   2456     0:00:00.109     0:47:44.002
+KillerNetworkService  5504   8  22  615 115472     0:00:19.578     0:47:43.996
+svchost            5624   8   3  197   2136     0:00:00.062     0:47:43.979
+jhi_service        5680   8   2  136   1316     0:00:00.000     0:47:43.970
+dasHost            6040   8   2  134   1284     0:00:00.031     0:47:43.907
+svchost            6192   8  15  431   3820     0:00:00.125     0:47:43.836
+wsctrlsvc          6360   8   3  164   1664     0:00:00.015     0:47:43.792
+WmiPrvSE           6404   8  10  512  22352     0:00:31.859     0:47:43.767
+KSPSService        6464   8   6  270  14908     0:00:00.078     0:47:43.749
+KSPS               7224   8   2  136   1276     0:00:00.046     0:47:43.543
+conhost            7240   8   4  145   5752     0:00:00.046     0:47:43.532
+AggregatorHost     7272   8   1   91   1108     0:00:00.015     0:47:43.517
+svchost            7512   8   6  238   2056     0:00:00.062     0:47:43.359
+rundll32           8060   8   2  138   1552     0:00:00.031     0:47:42.996
+KNDBWMService      8104   8   6  270  14920     0:00:00.125     0:47:42.954
+conhost            8228   8   4  145   5764     0:00:00.203     0:47:42.851
+KNDBWM             8308   8   6  367   7428     0:00:02.046     0:47:42.788
+nvcontainer        8644   8  17  393   9760     0:00:01.578     0:47:42.559
+nvcontainer        8744   8  27  486  47412     0:00:07.906     0:47:42.507
+KAPSService        8800   8   6  270  14956     0:00:00.140     0:47:42.358
+conhost            9032   8   4  143   5740     0:00:00.046     0:47:42.270
+KAPS               9204   8  11  439  13060     0:00:03.093     0:47:42.193
+sihost             9224   8  11  739   7136     0:00:03.093     0:47:42.047
+svchost            9264   8  13  445   9964     0:00:16.187     0:47:42.014
+PresentationFontCache  9300   8   4  246  25676     0:00:00.156     0:47:41.996
+svchost            9344   8   5  509   8068     0:00:02.296     0:47:41.983
+DSAUpdateService   9356   8   7  457  38672     0:00:00.734     0:47:41.979
+svchost            9452   8   7  268   3664     0:00:01.468     0:47:41.922
+taskhostw          9564   8   8  313   8456     0:00:00.484     0:47:41.884
+svchost            9792   8   5  196   2128     0:00:00.046     0:47:41.764
+ctfmon             9880  13  15  797  16960     0:00:13.156     0:47:41.717
+igfxEM            10060   8   3  316   3848     0:00:03.312     0:47:41.605
+svchost           10156   8  13  353   6260     0:00:01.500     0:47:41.532
+svchost           10236   8   7  353   4424     0:00:00.296     0:47:41.504
+explorer          10072   8 109 4325 173420     0:02:00.468     0:47:41.473
+NahimicSvc64      10496   8  13  433   6796     0:00:01.140     0:47:41.341
+NahimicSvc32      10528   8  17 1098  12096     0:00:04.250     0:47:41.323
+svchost           10832   8   7  228   2260     0:00:00.062     0:47:41.045
+svchost           11024   8   8  341   4344     0:00:00.593     0:47:40.884
+svchost           11128   8   4  224   2300     0:00:00.390     0:47:40.740
+svchost           11136   8   1  127   1472     0:00:00.062     0:47:40.739
+svchost           10340   8   2  196   2168     0:00:00.234     0:47:40.675
+ChsIME             7832   8   2  137   1444     0:00:00.015     0:47:40.633
+StartMenuExperienceHost 11896   8  10  660  31088     0:00:01.609     0:47:39.521
+SearchHost        11908   8  62 1558 157624     0:00:08.578     0:47:39.521
+RuntimeBroker     12108   8   2  261   5436     0:00:00.218     0:47:39.400
+RuntimeBroker     12176   8  14  761  13112     0:00:01.453     0:47:39.351
+svchost           11372   8   4  231   3152     0:00:00.078     0:47:39.191
+NVIDIA Web Helper  2532   6  92  614  34184     0:00:02.609     0:47:38.878
+dllhost            2244   8   7  252   8368     0:00:00.281     0:47:38.359
+conhost           11464   6   2  107   5440     0:00:00.062     0:47:38.340
+GoogleCrashHandler 11064   4   3  180   1764     0:00:00.046     0:47:38.013
+GoogleCrashHandler64  3992   4   3  162   1740     0:00:00.062     0:47:37.923
+YourPhone         12920   8  15  567  30428     0:00:00.671     0:47:37.232
+RuntimeBroker     11820   8   1  220   2788     0:00:00.062     0:47:31.160
+nvsphelper64      13620   8   5  247   3664     0:00:00.640     0:47:31.067
+NVIDIA Share      13624   8  32  821  35632     0:00:03.953     0:47:31.055
+NVIDIA Share      13604   8  12  502  32384     0:00:00.234     0:47:30.024
+svchost           12484   8  10  300   5104     0:00:00.250     0:47:29.911
+TextInputHost      8488  13  26  983  24108     0:00:06.140     0:47:29.813
+NVIDIA Share       2024   8  16  340  52060     0:00:01.328     0:47:29.603
+svchost           13828   8   3  304   3024     0:00:00.109     0:47:27.576
+SecurityHealthSystray 11816   8   1  186   2284     0:00:00.109     0:47:25.974
+SecurityHealthService  8636   8  12  398   3776     0:00:00.140     0:47:25.957
+RtkAudUService64  14208   8   8  345   5448     0:00:00.328     0:47:25.522
+DSATray           14436   8  12  494  34524     0:00:04.015     0:47:24.957
+HipsTray          14544   8   9  243   8988     0:00:01.781     0:47:24.441
+SteelSeriesGG     14832   8  29  540  28724     0:00:04.500     0:47:23.497
+SteelSeriesEngine 15004   8  26  505 232300     0:00:28.265     0:47:23.095
+lghub             10228   8  25  556  38180     0:00:01.359     0:47:21.612
+lghub_agent       13952   8 103 1718  52556     0:00:09.265     0:47:21.046
+lghub              6260  10  11  498  43880     0:00:00.578     0:47:20.984
+lghub             14812   8   8  236  11800     0:00:00.125     0:47:20.918
+logi_crashpad_handler 15612   8   6  153   1884     0:00:00.109     0:47:20.016
+logi_crashpad_handler 15620   8   6   74   1304     0:00:00.000     0:47:20.014
+unsecapp          15628   8   3  158   2592     0:00:00.265     0:47:20.012
+lghub             16024   8   7  190  11236     0:00:00.203     0:47:19.570
+NemuService       15540   8   9  422  17880     0:00:01.031     0:47:18.255
+Cortana           16504   8  27 1094  35072     0:00:01.125     0:47:16.139
+RuntimeBroker     16604   8   4  491   9004     0:00:00.312     0:47:15.549
+svchost           16660   8  12  351   4648     0:00:00.125     0:47:15.485
+svchost           16840   8   4  252   2560     0:00:00.187     0:47:15.229
+svchost           16904   8   2  139   1776     0:00:00.031     0:47:15.179
+SearchIndexer     16968   8  29  897  54744     0:00:07.062     0:47:15.134
+IGCCTray          17064   8   8  606  51748     0:00:02.375     0:47:14.959
+IGCC              16580   8   7  384  17028     0:00:00.140     0:47:13.847
+nahimicNotifSys   10964   8  11  838  42976     0:00:00.843     0:47:12.072
+dllhost           17708   8   4  195   3600     0:00:00.015     0:47:07.722
+Nahimic3          17848   8  17  734  19956     0:00:00.468     0:47:05.199
+ApplicationFrameHost 17856   8  12  537  29232     0:00:00.265     0:47:05.193
+RuntimeBroker     18056   8   1  141   2068     0:00:00.015     0:47:04.700
+svchost           18428   8   7  224   2712     0:00:00.109     0:46:56.309
+SystemSettings     1004   8  29 1181  50000     0:00:01.250     0:46:25.146
+HxOutlook          5248   8  33  990  27144     0:00:00.765     0:46:14.118
+RuntimeBroker      5372   8   3  240   3216     0:00:00.093     0:46:13.912
+HxTsr              5892   8  12  593   9088     0:00:00.250     0:46:13.749
+HxAccounts         9324   8  14  628  19188     0:00:00.343     0:46:12.689
+svchost           13920   8   3  432   5384     0:00:00.359     0:46:12.577
+svchost           14280   8  11  409   5896     0:00:00.312     0:45:39.272
+svchost            3716   8   1  221   2836     0:00:00.109     0:45:39.164
+SgrmBroker         2480   8   7  107   7612     0:00:00.140     0:45:22.503
+svchost            3440   8   8  231   2776     0:00:00.093     0:45:22.129
+QQ                 4780   8 103 1656 215180     0:00:51.312     0:45:05.244
+TXPlatform         5936   8   2  180   4212     0:00:00.093     0:45:05.062
+ShellExperienceHost  7312   8  16  626  17140     0:00:00.312     0:45:04.148
+RuntimeBroker      7388   8   2  188   2528     0:00:00.015     0:45:03.909
+wpscloudsvr        8260   8 105 1287 226608     0:00:43.171     0:44:40.203
+svchost           16348   8   4  122   1524     0:00:00.000     0:35:55.440
+msedge             7936   8  50 2723 160556     0:00:58.890     0:35:36.160
+msedge            11804   8   8  354   2600     0:00:00.062     0:35:36.108
+msedge            18168  10  23 1354 346572     0:02:20.656     0:35:35.975
+msedge            10724   8  16  569  24292     0:00:08.984     0:35:35.956
+msedge             6484   8   9  273  10072     0:00:00.250     0:35:35.883
+msedge            10784   8  18  312  24616     0:00:01.578     0:35:35.681
+msedge            18112   4  18  426 134352     0:00:32.000     0:35:05.582
+msedge             7712   8  30  911  63576     0:00:22.468     0:34:17.431
+msedge            14816   8  12  211  27052     0:00:00.921     0:34:16.369
+msedge             1448  10  16 1178 305840     0:00:41.781     0:34:16.271
+msedge            17156   8  10  290  16428     0:00:03.781     0:34:16.176
+msedge             1416   4  18  378 198736     0:01:56.203     0:34:15.950
+msedge             5852   4  18  372  84416     0:00:19.968     0:34:15.880
+msedge            15516   8   7  256  11680     0:00:00.625     0:34:14.369
+OfficeClickToRun  18552   8  20  719  32900     0:00:00.812     0:32:30.847
+msedge             3104   8  11  306   8436     0:00:00.203     0:31:35.754
+RuntimeBroker     15500   8   6  273   5628     0:00:00.328     0:31:35.673
+msedge             6384   4  17  398 123116     0:00:25.984     0:31:25.892
+QQExternal        14488   8  13  473  64088     0:00:02.421     0:28:38.389
+wps                6376   8  53 1052 204216     0:00:04.656     0:28:24.582
+wpspdf             6628   8  38  745 236512     0:01:10.296     0:28:24.533
+promecefpluginhost  1536  10  10  603  61476     0:00:00.796     0:27:53.638
+promecefpluginhost 15752   8   8  445  14676     0:00:00.593     0:27:53.568
+wps                4788   4  16  340  17152     0:00:00.375     0:27:53.553
+wps                5732   8  16  388  28804     0:00:00.937     0:27:53.542
+dllhost            9656   8   4  156   2160     0:00:00.062     0:27:39.308
+Notepad           19412   8   7  635  26520     0:00:08.250     0:27:20.247
+dxdiag            10720   8   9 1332  63304     0:00:06.671     0:23:36.324
+Notepad           16616   8   6  621  25148     0:00:01.062     0:23:06.000
+ChsIME            12188   8   9  371   5612     0:00:00.187     0:21:06.124
+vds                2884   8  11  210   2804     0:00:00.109     0:21:04.765
+msedge             9644   4  23  461  49840     0:00:04.375     0:19:20.520
+cmd                2440   8   1   80   2396     0:00:00.109     0:18:08.980
+conhost            8952   8   4  199  14068     0:00:03.375     0:18:08.973
+GameBar           17804   8  14  496  17552     0:00:00.343     0:17:41.445
+RuntimeBroker     16952   8   1  279   2972     0:00:00.156     0:17:41.403
+RuntimeBroker     18520   8   2  380   6236     0:00:03.171     0:17:41.301
+GameBarFTServer   10612   8   2  266   2940     0:00:00.171     0:17:40.871
+svchost           10908   8   3  285   4092     0:00:00.062     0:17:40.725
+SearchProtocolHost 16612   4   5  266   1912     0:00:00.078     0:16:53.744
+backgroundTaskHost 19272   8  19  426   9424     0:00:00.453     0:16:27.064
+msedge             9064   4  17  365  48852     0:00:04.531     0:13:43.814
+msedge            13876   4  17  511  47084     0:00:02.609     0:13:43.701
+msedge            18304   4  17  319  17280     0:00:00.093     0:13:28.467
+msedge            18576   4  17  358  30828     0:00:00.765     0:12:13.674
+SearchFilterHost  13224   4   8  197   2700     0:00:00.140     0:11:58.633
+msedge            18960   4  17  365  29520     0:00:06.078     0:11:12.423
+msedge             5104   4  23  609 179148     0:00:14.203     0:11:12.299
+msedge            17500   4  17  364  43584     0:00:01.562     0:02:50.369
+msedge            13864   8   7  280   7632     0:00:00.078     0:02:50.239
+audiodg            8896   8   6  231   9672     0:00:00.234     0:02:50.149
+svchost            5044   8   5  155   3820     0:00:00.031     0:02:45.118
+svchost           16020   8   2  120   1384     0:00:00.015     0:02:42.236
+WmiApSrv           3240   8   4  173   1916     0:00:00.171     0:02:41.107
+msedge            17348   4  24  337  17480     0:00:00.125     0:02:24.153
+esrv_svc          16864  13  92 1870 185944     0:00:02.796     0:02:19.987
+msedge             4880   4  26  390  44900     0:00:02.250     0:02:16.778
+msedge             5212   4  16  322  25364     0:00:00.421     0:02:16.666
+msedge            10084   4  16  316  17228     0:00:00.218     0:02:14.937
+msedge            18392   4  20  648  42776     0:00:01.875     0:01:12.406
+msedge             3476   4  16  302  19220     0:00:00.109     0:01:12.271
+msedge            10456   4  16  298  19512     0:00:00.125     0:01:10.249
+msedge            17040   8   7  230   9188     0:00:00.062     0:01:09.427
+svchost           18720   8  15  339   9900     0:00:00.437     0:01:04.564
+svchost           12720   8   3  144   3296     0:00:00.046     0:01:04.547
+svchost           11924   8  10  405   4428     0:00:00.093     0:01:04.278
+msedge            19680   4  18  395  51368     0:00:03.000     0:01:00.819
+msedge            20156   4  17  313  26436     0:00:00.937     0:00:45.604
+SearchProtocolHost 20248   4   9  356   2780     0:00:00.062     0:00:44.903
+msedge            20268   4  16  276  13508     0:00:00.078     0:00:44.888
+WinRAR            16440   8  11  730  39604     0:00:02.343     0:00:43.513
+pslist            14244  13   6  292   5368     0:00:00.453     0:00:02.354
